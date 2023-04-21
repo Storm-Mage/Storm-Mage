@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Storm-Mage
 - 👀 I’m interested in Python, C++, Java, and C#
 - 🌱 I’m currently learning Python and C#
-- 💞️ I’m looking to collaborate on mainly Python projects, and maybe some Javascript
+- 💞️ I’m looking to collaborate on Python and Unity.
 - 📫 How to reach me a.j.willburn@gmail.com
 
 <!---
